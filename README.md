@@ -25,3 +25,8 @@ python main.py
 ## Reference
 U. Kulau, J. van Balen, S. Schildt, F. Büsching, and L. Wolf, "Dynamic sample rate adaptation for long-term IoT sensing applications," in Internet of Things (WF-IoT), 2016 IEEE 3rd World Forum on, 2016, pp. 271-276: IEEE.
 
+## Data
+Home Office AirPi - Indoor climate measurements using an AirPi, a Raspberry Pi shield kit
+https://www.kaggle.com/mvolkerts/home-office-airpi
+
+
