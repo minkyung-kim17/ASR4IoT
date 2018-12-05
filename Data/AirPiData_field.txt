@@ -1,0 +1,22 @@
+Data time: measurement time stamp
+
+Volumne [mV]: Ambient noise levels 
+
+Light Level [Ohms]: Light levels measured through an LDR.
+
+Temperature-DHT [Celsius]: Temperature reading from the DHT22 sensor in degrees Celsius
+
+Pressure [Hectopascal]: Air pressure from the BMP085 sensor in hectopascal
+
+Temperature-BMP [Celsius]: Temperature reading from the BMP085 sensor in degrees Celsius
+
+Relative_Humidity [%]: Relative humidity reading from the DHT22 sensor in degrees Celsius
+
+Air_Quality [Ohms]: Air quality measurements from the TGS 2600 sensor
+
+Carbon_Monoxide [Ohms]: Carbon monoxide measurements from MiCS-5525 sensor
+
+Nitrogen_Dioxide [Ohms]: Nitrogen dioxide measurements from MiCS-2710 sensor
+
+***** Reference: 
+https://www.kaggle.com/mvolkerts/home-office-airpi
